@@ -1,0 +1,24 @@
+
+
+body {
+    background: #043041;
+    height: 100vh;
+}
+
+.login-form {
+    background: #043041;
+}
+
+.error-message {
+    color: red;
+}
+
+.login-text {
+    background: #1F4758;
+    color: #eee;
+    border: 0;
+}
+
+.login-text:focus {
+	color: #111;
+}

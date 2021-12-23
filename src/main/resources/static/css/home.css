@@ -1,0 +1,10 @@
+
+body {
+    background: #073040;
+    height: 100vh;
+}
+
+.card {
+    background: #214757;
+    border: 1px solid #535353;
+}
